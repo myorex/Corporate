@@ -56,6 +56,13 @@ nav a:hover {
     gap: 60px;
 }
 
-.hero h1 {
-
+.hero-content {
+    flex: 1;
 }
+ .hero h1 {
+    font-size: 48px;
+    font-weight:900;
+    margin-bottom: 20px;
+    line-height: 1.2;
+ }
+ 
